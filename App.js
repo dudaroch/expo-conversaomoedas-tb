@@ -41,7 +41,7 @@ export default function App() {
         >
           <Picker.Item label="Real Brasileiro" value="BRL" />
           <Picker.Item label="Dólar Americano" value="USD" />
-          <Picker.Item label="Ouro" value="XAU" />
+          <Picker.Item label="Euro" value="EUR" />
           <Picker.Item label="Bitcoin" value="BTC" />
         </Picker>
       </View>
@@ -54,7 +54,7 @@ export default function App() {
         >
           <Picker.Item label="Real Brasileiro" value="BRL" />
           <Picker.Item label="Dólar Americano" value="USD" />
-          <Picker.Item label="Ouro" value="XAU" />
+          <Picker.Item label="Euro" value="EUR" />
           <Picker.Item label="Bitcoin" value="BTC" />
         </Picker>
       </View>
